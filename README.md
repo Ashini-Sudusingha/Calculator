@@ -76,3 +76,8 @@ java Calculator
 - Fully implement the memory register functions (`MC`, `MR`, `M+`, `M-`, `MS`).
 - Enhance color schemes and transition animations using Java Swing or JavaFX.
 - Add support for keyboard bindings for numerical inputs and operators.
+
+## creator
+Ashini Sudusingha
+Full-Stack Software Engineer & Designer
+This project was completed when I was in first year(2024) Passionate about creating modern, beautifully aesthetic, and highly functional web solutions.
